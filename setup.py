@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Text-summarization-Project-"
 AUTHOR_USER_NAME = "Vaibhavpanse"
-SRC_REPO = "Text Summarizer"
+SRC_REPO = "Text_Summarizer"
 AUTHOR_EMAIL = "pansevaibhav07@gmail.com"
 
 

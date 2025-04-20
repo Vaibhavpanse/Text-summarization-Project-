@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "Text Summarizer"
+project_name = "Text_Summarizer"
 
 list_files = [
     ".github/workflows/.gitkeep",
@@ -46,6 +46,7 @@ for filepath in list_files:
 
     else:
         logging.info(f"{filepath} already exists")
+        
         
 
         
