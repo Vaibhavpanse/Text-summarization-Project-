@@ -27,3 +27,4 @@ class DataValidation:
         
         except Exception as e:
             raise e
+        
